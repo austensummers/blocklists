@@ -1,15 +1,15 @@
 # blocklists
 
-Personal DNS blocklists in AdGuard syntax.
+Personal DNS blocklists for AdGuard Home / Pi-hole.
 
-## porn-blocklist.txt
-Adult-content domains for AdGuard Home / Pi-hole.
+## adguard-home-blocklist.txt
+Adult-content domains in AdGuard syntax.
 
 Subscribe URL:
-https://raw.githubusercontent.com/austensummers/blocklists/main/porn-blocklist.txt
+https://raw.githubusercontent.com/austensummers/blocklists/main/adguard-home-blocklist.txt
 
 ## hosts-blocklist.txt
-Hosts-format blocklist for hosts file: /etc/hosts
+Hosts-format blocklist.
 
 Subscribe URL:
 https://raw.githubusercontent.com/austensummers/blocklists/main/hosts-blocklist.txt
