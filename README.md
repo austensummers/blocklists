@@ -9,7 +9,7 @@ Subscribe URL:
 https://raw.githubusercontent.com/austensummers/blocklists/main/porn-blocklist.txt
 
 ## hosts-blocklist.txt
-Hosts-format blocklist for AdGuard Home / Pi-hole.
+Hosts-format blocklist for hosts file: /etc/hosts
 
 Subscribe URL:
 https://raw.githubusercontent.com/austensummers/blocklists/main/hosts-blocklist.txt
